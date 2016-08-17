@@ -1,0 +1,17 @@
+{
+  "name": "node-fast-http",
+  "version": "0.0.1",
+  "description": "Complete replacement of node http module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http"
+  ],
+  "author": "Arseniy Pavlenko aka h0x91b",
+  "license": "MIT",
+  "dependencies": {
+    "nan": "^2.4.0"
+  }
+}
